@@ -1,0 +1,5 @@
+make local changes
+commit locally
+push it to remote
+make changes on git
+pull it to local

@@ -6,3 +6,6 @@ pull it to local
 
 changes on git
 pull it to local
+
+changes in local
+push to git again
